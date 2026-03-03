@@ -6,7 +6,7 @@ Automatically extracts receipt data from Gmail using OpenAI and saves to Google 
 Gmail Trigger → OpenAI (GPT-4o-mini) → Code Parser → Google Sheets
 
 ## Workflow
-![Receipt Parser Workflow](assests/reciept-parser-n8n-workflow.png)
+![Receipt Parser Workflow](assets/reciept-parser-n8n-workflow.png)
 
 
 
